@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $yellow;
+  color: $orange;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $yellow;
+    color: $orange;
   }
 }
 
@@ -123,14 +123,14 @@ img {
 }
 
 // Specify the color of the selection
-::-moz-selection {
+/* ::-moz-selection {
   color: $black;
   background: $lightGray;
 }
 ::selection {
   color: $black;
   background: $lightGray;
-}
+} */
 
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
@@ -153,7 +153,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 25px;
 }
 
 .masthead {
@@ -203,7 +203,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $yellow;
+  color: $orange;
   font-size: 16px;
 
   @include mobile {
