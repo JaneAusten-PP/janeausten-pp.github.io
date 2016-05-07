@@ -52,3 +52,5 @@ Jednoduchý vzhled s přehlednou navigací [about-autographs.blog.cz](http://abo
 
 <p style="text-align: justify">Informace o Jane Austenové, o jejích knihách – především Pýcha a předsudek, o filmových a seriálových adaptacích, o jednotlivých postavách a jejich filmových/seriálových představitelích.
 Příspěvky budeme zveřejňovat podle toho, jaké bude zadání v úkolech v blenderu. Pokud se domluvíme. :D Pokud to nebude stanoveno v zadání, budeme přidávat příspěvky nejspíš 1x týdně, půjdeme od obecných informací ke specifičtějším.</p>
+
+Zkouška funkčnosti webu
