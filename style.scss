@@ -153,7 +153,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 25px;
 }
 
 .masthead {
@@ -227,14 +227,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $cyan;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $cyan;
     }
   }
 }
