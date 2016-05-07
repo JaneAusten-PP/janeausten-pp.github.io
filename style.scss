@@ -158,7 +158,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $cyan;
+  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -194,7 +194,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $cyan;
+  color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
